@@ -1,5 +1,7 @@
 {
   "name": "harkka",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
