@@ -11,4 +11,6 @@ Poista
 Merkkaa kerätyksi
 
 
+### Huom
 
+Sisältää vain lähdekoodin, ja node_modules puuttuu.
